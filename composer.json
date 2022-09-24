@@ -1,0 +1,33 @@
+{
+    "name": "cristhunberg/phprouter",
+    "description": "A simple router for PHP",
+    "keywords": ["router", "routing", "php router", "phprouteer", "php route", "phproute"],
+    "homepage": "https://github.com/cristhunberg/phprouter",
+    "license": "MIT",
+    "authors": [
+       {
+          "name": "Cris Thunberg",
+          "email": "example@example.com",
+          "homepage": "http://example.com/",
+          "role": "Creator/Developer"
+       }
+       
+    ],
+    "require": {
+       "php": ">=5.6.0"
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+       "psr-4": {
+          "Cristhunberg\\Router\\": "src/"
+       }
+    },
+    "autoload-dev": {
+       "psr-4": {
+        "Cristhunberg\\Router\\": "src/"
+       }
+    }
+ }
+ 
