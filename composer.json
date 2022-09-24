@@ -20,6 +20,8 @@
        "psr-4": {
           "Cristhunberg\\Router\\": "src/"
        }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
  }
  
